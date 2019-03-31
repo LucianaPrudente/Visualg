@@ -6,7 +6,6 @@ Algoritmo "PROCEDIMENTOS"
 // RESPOSTA: A inclusao ou exclusao da palavra reservada 'VAR' dentro do
 // parametro - dentro dos parenteses.
 
-
 Var
 x,y: inteiro
 
@@ -27,7 +26,7 @@ Inicio
       x<- 4
       y<- 8
       escreval ("********************************************************")
-      escreval ("              PROCEDIMENTO POR REFER蔔CIA ")
+      escreval ("              PROCEDIMENTO POR REFERENCIA ")
       escreval ("********************************************************")
 
       soma (x,y)
