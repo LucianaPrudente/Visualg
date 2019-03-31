@@ -4,7 +4,7 @@ var
    x: vetor[1..2,1..2] de real
    n: vetor [1..2] de real
 inicio
-      escreval("Ache as raizes de uma equaçمo quadrada!")
+      escreval("Ache as raizes de uma equacao quadrada!")
       escreval("     *Calcula raizes complexas*")
       escreval("---------------------------------------")
       escreva("Digite o valor de a: ")
